@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Localizador com Google Maps</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Localizador de Endereços</h1>
+
+  <div class="controle">
+    <input type="text" id="endereco-input" placeholder="Digite um endereço...">
+    <button onclick="buscarLocalizacao()">Buscar</button>
+  </div>
+
+  <div id="mapa"></div>
+
+  <script src="script.js"></script>
+
+  
+  <script async
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDO4xZWgTIaL6apNZM9q8NYO8ay_pZ1azo&callback=initMap">
+</script>
+
+
+</body>
+</html>
