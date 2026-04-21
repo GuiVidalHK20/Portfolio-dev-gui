@@ -17,7 +17,7 @@ Meu foco é crescer como profissional e trabalhar de forma perene para o desenvo
 
 🐍 Python — automação e análise de dados (em aprendizado) (Intermediário)
 
-⚙️ Git e GitHub — versionamento e colaboração em projetos (Iniciante)
+⚙️ Git e GitHub — versionamento e colaboração em projetos (Intermediário)
 
 📚 Objetivos do portfólio
 
